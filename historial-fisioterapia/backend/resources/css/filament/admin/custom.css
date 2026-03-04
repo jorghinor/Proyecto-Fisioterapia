@@ -1,0 +1,15 @@
+:root {
+    --chart-color-1: #FF5733;
+    --chart-color-2: #33FF57;
+    --chart-color-3: #3357FF;
+    --chart-color-4: #FF33A1;
+    --chart-color-5: #A133FF;
+    --chart-color-6: #33FFA1;
+}
+
+.filament-chart-widget {
+    --tw-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1), 0 1px 2px -1px rgba(0, 0, 0, 0.1);
+    box-shadow: var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);
+    border-radius: 0.75rem;
+    background-color: #fff;
+}
